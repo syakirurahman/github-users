@@ -1,4 +1,4 @@
-# GitHub Explorer
+# GitHub Users Explorer
 
 A React application that allows you to search for GitHub users and view their repositories. Built with React, TypeScript, Vite, Tailwind CSS and Shadcn UI.
 
